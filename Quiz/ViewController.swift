@@ -3,6 +3,7 @@
 //  Quiz
 //
 //  Created by Leah Yoch on 1/10/18.
+// High Point University 
 //  Copyright © 2018 Leah Yoch. All rights reserved.
 //
 
